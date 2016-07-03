@@ -1,0 +1,1 @@
+neural network controlled accelerometer based screen rotation for asus t100 convertible
